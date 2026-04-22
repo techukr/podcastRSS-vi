@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 
 # ================= CẤU HÌNH HỆ THỐNG =================
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-REPO_NAME = "techukr/podcastRSS"
+REPO_NAME = "techukr/podcastRSS-vi"
 FILE_PATH = "rss.xml"
 BRANCH = "main"
 
