@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Podcast]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Wed, 22 Apr 2026 05:23:33 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Apr 2026 05:49:22 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -21,5 +21,31 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45593186/45593186-1773843177681-a5f263850b632.jpg"/>
 		
+			<item>
+            <title><![CDATA[Bản tin AI Hôm nay: Sự chuyển dịch sang AI SEO và Cổ phiếu AI đạt đỉnh]]></title>
+            <description><![CDATA[<p>Trong tập này, chúng ta sẽ khám phá cách các công cụ AI đang thay đổi môi trường kinh doanh và hành vi tìm kiếm của khách hàng cùng chuyên gia Jason Messick. Đồng thời, chúng tôi sẽ phân tích các yếu tố giúp các cổ phiếu liên kết với AI như POET, MRVL và BE tăng vọt lên mức cao nhất trong 52 tuần qua nhờ sự lạc quan của thị trường và các thương vụ tiềm năng.</p>]]></description>
+            <guid isPermaLink="false">3f3242b3-6d4d-4d48-831c-6912b98fb883</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 05:49:16 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260422_ai_news_today/2026-04-22_AI_News_today_Audio.mp3" length="6874519" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Trong tập này, chúng ta sẽ khám phá cách các công cụ AI đang thay đổi môi trường kinh doanh và hành vi tìm kiếm của khách hàng cùng chuyên gia Jason Messick. Đồng thời, chúng tôi sẽ phân tích các yếu tố giúp các cổ phiếu liên kết với AI như POET, MRVL và BE tăng vọt lên mức cao nhất trong 52 tuần qua nhờ sự lạc quan của thị trường và các thương vụ tiềm năng.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260422_ai_news_today/2026-04-22_AI_News_today_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Khám Phá Oppo Find X9 Ultra và Những Rò Rỉ Về Find X10]]></title>
+            <description><![CDATA[<p>Trong tập này, chúng ta sẽ đi sâu vào đánh giá chiếc Oppo Find X9 Ultra, siêu phẩm nhiếp ảnh với ống kính tele 10x 50MP, cảm biến chính 200MP, chip Snapdragon 8 Elite Gen 5 và viên pin 7050mAh. Bên cạnh đó, cùng điểm qua những tin đồn mới nhất về thế hệ Oppo Find X10 sắp tới với khả năng trang bị camera góc siêu rộng 200MP đầu tiên trên thế giới.</p>]]></description>
+            <guid isPermaLink="false">8d01f6dd-f258-4efe-b104-cc0c1444a003</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 05:49:22 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260422_oppo_find_x9_ultra/2026-04-22_oppo_find_x9_ultra_Audio.mp3" length="5182412" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Trong tập này, chúng ta sẽ đi sâu vào đánh giá chiếc Oppo Find X9 Ultra, siêu phẩm nhiếp ảnh với ống kính tele 10x 50MP, cảm biến chính 200MP, chip Snapdragon 8 Elite Gen 5 và viên pin 7050mAh. Bên cạnh đó, cùng điểm qua những tin đồn mới nhất về thế hệ Oppo Find X10 sắp tới với khả năng trang bị camera góc siêu rộng 200MP đầu tiên trên thế giới.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260422_oppo_find_x9_ultra/2026-04-22_oppo_find_x9_ultra_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
 	</channel>
 </rss>
