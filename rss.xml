@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Wed, 22 Apr 2026 11:17:24 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Apr 2026 11:44:45 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -21,19 +21,6 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45593186/45593186-1773843177681-a5f263850b632.jpg"/>
 		
-			<item>
-            <title><![CDATA[Khám Phá Oppo Find X9 Ultra và Những Rò Rỉ Về Find X10]]></title>
-            <description><![CDATA[<p>Trong tập này, chúng ta sẽ đi sâu vào đánh giá chiếc Oppo Find X9 Ultra, siêu phẩm nhiếp ảnh với ống kính tele 10x 50MP, cảm biến chính 200MP, chip Snapdragon 8 Elite Gen 5 và viên pin 7050mAh. Bên cạnh đó, cùng điểm qua những tin đồn mới nhất về thế hệ Oppo Find X10 sắp tới với khả năng trang bị camera góc siêu rộng 200MP đầu tiên trên thế giới.</p>]]></description>
-            <guid isPermaLink="false">8d01f6dd-f258-4efe-b104-cc0c1444a003</guid>
-            <dc:creator><![CDATA[ACDT]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 05:49:22 GMT</pubDate>
-            <enclosure url="https://archive.org/download/podcast_20260422_oppo_find_x9_ultra/2026-04-22_oppo_find_x9_ultra_Audio.mp3" length="5182412" type="audio/mpeg"/>
-            <itunes:summary><![CDATA[<p>Trong tập này, chúng ta sẽ đi sâu vào đánh giá chiếc Oppo Find X9 Ultra, siêu phẩm nhiếp ảnh với ống kính tele 10x 50MP, cảm biến chính 200MP, chip Snapdragon 8 Elite Gen 5 và viên pin 7050mAh. Bên cạnh đó, cùng điểm qua những tin đồn mới nhất về thế hệ Oppo Find X10 sắp tới với khả năng trang bị camera góc siêu rộng 200MP đầu tiên trên thế giới.</p>]]></itunes:summary>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>00:15:00</itunes:duration>
-            <itunes:image href="https://archive.org/download/podcast_20260422_oppo_find_x9_ultra/2026-04-22_oppo_find_x9_ultra_Cover.png"/>
-            <itunes:episodeType>full</itunes:episodeType>
-        </item>
 			<item>
             <title><![CDATA[Nhóm người dùng truy cập trái phép vào công cụ an ninh mạng Mythos của Anthropic [1]]]></title>
             <description><![CDATA[<p>Trong tập này, chúng ta khám phá báo cáo về việc một nhóm người dùng chưa được cấp phép đã xâm nhập thành công vào Mythos, công cụ an ninh mạng AI độc quyền của Anthropic [1]. Tìm hiểu cách nhóm Discord này tận dụng quyền truy cập từ môi trường của nhà thầu bên thứ ba để đoán ra vị trí trực tuyến của mô hình [2-4]. Mặc dù nhóm này khẳng định họ chỉ muốn thử nghiệm các mô hình mới, nhưng việc rò rỉ một AI có thể bị lạm dụng thành vũ khí tấn công mạng đang đặt ra những rủi ro lớn đối với dự án bảo mật Project Glasswing của Anthropic [2, 4].</p>]]></description>
