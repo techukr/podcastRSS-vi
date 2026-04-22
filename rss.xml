@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Podcast]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Wed, 22 Apr 2026 06:23:07 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Apr 2026 06:38:43 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -71,6 +71,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260422_cern_printer_ink/2026-04-22_CERN_printer_ink_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Fintech ĐNÁ: 3 Bí Mật sống còn [Blueprint]]]></title>
+            <description><![CDATA[<p>Ba nhà sáng lập từ DeeMoney, Aspire và HitPay tiết lộ bức tranh chân thực tại Money20/20 về quá trình xây dựng startup tại Đông Nam Á. Khám phá những rào cản pháp lý phân mảnh, lý do tại sao việc mở rộng quy mô đòi hỏi sự kiên nhẫn trong nhiều năm để xây dựng niềm tin của khách hàng, và giới hạn thực sự của AI khi sản phẩm cốt lõi chưa đạt yêu cầu.</p>]]></description>
+            <guid isPermaLink="false">9e38411f-d56f-4f6b-b634-bd7c4c52a4e2</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 06:38:43 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260422_thailand_fintech/2026-04-22_Thailand_Fintech_Audio.mp3" length="20813249" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Ba nhà sáng lập từ DeeMoney, Aspire và HitPay tiết lộ bức tranh chân thực tại Money20/20 về quá trình xây dựng startup tại Đông Nam Á. Khám phá những rào cản pháp lý phân mảnh, lý do tại sao việc mở rộng quy mô đòi hỏi sự kiên nhẫn trong nhiều năm để xây dựng niềm tin của khách hàng, và giới hạn thực sự của AI khi sản phẩm cốt lõi chưa đạt yêu cầu.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260422_thailand_fintech/2026-04-22_Thailand_Fintech_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
