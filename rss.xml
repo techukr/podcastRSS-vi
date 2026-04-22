@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Podcast]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Wed, 22 Apr 2026 06:38:43 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Apr 2026 07:29:16 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -84,6 +84,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260422_thailand_fintech/2026-04-22_Thailand_Fintech_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Warning: India AI và 3 bước ngoặt ]]></title>
+            <description><![CDATA[<p>Khám phá 3 sự kiện công nghệ cốt lõi định hình lại Ấn Độ: Ngành gia công phần mềm 300 tỷ USD đối mặt với sự gián đoạn chưa từng có do AI, cú bắt tay thúc đẩy hạ tầng Sovereign AI giữa AWS và SHI India, cùng đợt bành trướng tích hợp Gemini vào Chrome của Google. Các nền tảng điện toán đám mây và công cụ AI đang tái định nghĩa tương lai công việc tại cường quốc công nghệ này.</p>]]></description>
+            <guid isPermaLink="false">753a3b7c-f506-46c2-98cf-65e640de8754</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 07:29:16 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260422_india_ai/2026-04-22_India_AI_Audio.mp3" length="21674663" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khám phá 3 sự kiện công nghệ cốt lõi định hình lại Ấn Độ: Ngành gia công phần mềm 300 tỷ USD đối mặt với sự gián đoạn chưa từng có do AI, cú bắt tay thúc đẩy hạ tầng Sovereign AI giữa AWS và SHI India, cùng đợt bành trướng tích hợp Gemini vào Chrome của Google. Các nền tảng điện toán đám mây và công cụ AI đang tái định nghĩa tương lai công việc tại cường quốc công nghệ này.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260422_india_ai/2026-04-22_India_AI_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
