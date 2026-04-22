@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Wed, 22 Apr 2026 13:23:39 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Apr 2026 23:28:09 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -123,6 +123,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260422_scambodia/2026-04-22_scambodia_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Warning: TSMC hoãn ASML High-NA ]]></title>
+            <description><![CDATA[<p>TSMC chính thức hoãn áp dụng cỗ máy quang khắc High-NA EUV trị giá 410 triệu USD của ASML cho đến năm 2029 nhằm bảo vệ biên lợi nhuận. Động thái thắt chặt chi phí và e ngại rủi ro này đã khiến cổ phiếu ASML sụt giảm, đồng thời phản ánh xu hướng chờ đợi chung của các ông lớn công nghệ trước thế hệ máy móc đắt đỏ mới.</p>]]></description>
+            <guid isPermaLink="false">12483dff-3b37-48e2-bda3-677d809fbf71</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 23:28:09 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260423_tsmc_delayed_asml/2026-04-23_TSMC_Delayed_ASML_Audio.mp3" length="15684890" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>TSMC chính thức hoãn áp dụng cỗ máy quang khắc High-NA EUV trị giá 410 triệu USD của ASML cho đến năm 2029 nhằm bảo vệ biên lợi nhuận. Động thái thắt chặt chi phí và e ngại rủi ro này đã khiến cổ phiếu ASML sụt giảm, đồng thời phản ánh xu hướng chờ đợi chung của các ông lớn công nghệ trước thế hệ máy móc đắt đỏ mới.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260423_tsmc_delayed_asml/2026-04-23_TSMC_Delayed_ASML_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
