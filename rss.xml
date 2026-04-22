@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Wed, 22 Apr 2026 12:19:31 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Apr 2026 13:23:39 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -105,19 +105,6 @@
             <guid isPermaLink="false">2bf39570-31db-41cb-8516-5f93ee901b67</guid>
             <dc:creator><![CDATA[ACDT]]></dc:creator>
             <pubDate>Wed, 22 Apr 2026 12:00:28 GMT</pubDate>
-            <enclosure url="https://archive.org/download/podcast_20260422_eu_phone_regular/2026-04-22_EU_Phone_regular_Audio.mp3" length="15815293" type="audio/mpeg"/>
-            <itunes:summary><![CDATA[<p>Khám phá đạo luật thay pin điện thoại mới của EU (áp dụng từ năm 2027) cùng ngoại lệ đặc biệt dành cho các loại pin duy trì 80% dung lượng sau 1.000 chu kỳ sạc. Tập podcast cũng phân tích dịch vụ kết nối vệ tinh trực tiếp đến smartphone đầu tiên tại châu Âu từ Starlink và O2, thương vụ SpaceX thâu tóm Cursor AI với giá 60 tỷ USD, và tiết lộ chấn động về các cuộc gọi bí mật của Hungary với Nga ngay giữa các cuộc họp của Liên minh châu Âu.</p>]]></itunes:summary>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>00:15:00</itunes:duration>
-            <itunes:image href="https://archive.org/download/podcast_20260422_eu_phone_regular/2026-04-22_EU_Phone_regular_Cover.png"/>
-            <itunes:episodeType>full</itunes:episodeType>
-        </item>
-			<item>
-            <title><![CDATA[Secret Pin EU: 3 đột phá Starlink [2026 Update]]]></title>
-            <description><![CDATA[<p>Khám phá đạo luật thay pin điện thoại mới của EU (áp dụng từ năm 2027) cùng ngoại lệ đặc biệt dành cho các loại pin duy trì 80% dung lượng sau 1.000 chu kỳ sạc. Tập podcast cũng phân tích dịch vụ kết nối vệ tinh trực tiếp đến smartphone đầu tiên tại châu Âu từ Starlink và O2, thương vụ SpaceX thâu tóm Cursor AI với giá 60 tỷ USD, và tiết lộ chấn động về các cuộc gọi bí mật của Hungary với Nga ngay giữa các cuộc họp của Liên minh châu Âu.</p>]]></description>
-            <guid isPermaLink="false">f4eca8fd-21c8-4489-b308-1c07742079e8</guid>
-            <dc:creator><![CDATA[ACDT]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 12:04:33 GMT</pubDate>
             <enclosure url="https://archive.org/download/podcast_20260422_eu_phone_regular/2026-04-22_EU_Phone_regular_Audio.mp3" length="15815293" type="audio/mpeg"/>
             <itunes:summary><![CDATA[<p>Khám phá đạo luật thay pin điện thoại mới của EU (áp dụng từ năm 2027) cùng ngoại lệ đặc biệt dành cho các loại pin duy trì 80% dung lượng sau 1.000 chu kỳ sạc. Tập podcast cũng phân tích dịch vụ kết nối vệ tinh trực tiếp đến smartphone đầu tiên tại châu Âu từ Starlink và O2, thương vụ SpaceX thâu tóm Cursor AI với giá 60 tỷ USD, và tiết lộ chấn động về các cuộc gọi bí mật của Hungary với Nga ngay giữa các cuộc họp của Liên minh châu Âu.</p>]]></itunes:summary>
             <itunes:explicit>false</itunes:explicit>
