@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Wed, 22 Apr 2026 12:04:33 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Apr 2026 12:19:31 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -123,6 +123,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260422_eu_phone_regular/2026-04-22_EU_Phone_regular_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Stop Scambodia: Cảnh báo gửi WSJ [2026 Update]]]></title>
+            <description><![CDATA[<p>Khám phá sự thật đằng sau biệt danh gây tranh cãi 'Scambodia' mà The Wall Street Journal (WSJ) đã sử dụng. Tập podcast này đi sâu vào phản ứng mạnh mẽ của Ủy ban Nhân quyền Campuchia (CHRC), yêu cầu WSJ rút lại từ này và xin lỗi vì xúc phạm quốc thể. Chúng tôi cũng làm rõ những nỗ lực chưa được kể của Campuchia: triệt phá các cơ sở lừa đảo do các tổ chức tội phạm nước ngoài điều hành, trục xuất hàng chục ngàn tội phạm mạng xuyên quốc gia và ban hành luật chống lừa đảo trực tuyến nghiêm ngặt trong năm 2026. Một góc nhìn đa chiều, phản bác lại định kiến để thấy rõ bức tranh toàn cảnh.</p>]]></description>
+            <guid isPermaLink="false">e884fdae-9ff7-42a0-ab0e-b13235c1dfa4</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 12:19:31 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260422_scambodia/2026-04-22_scambodia_Audio.mp3" length="13382771" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khám phá sự thật đằng sau biệt danh gây tranh cãi 'Scambodia' mà The Wall Street Journal (WSJ) đã sử dụng. Tập podcast này đi sâu vào phản ứng mạnh mẽ của Ủy ban Nhân quyền Campuchia (CHRC), yêu cầu WSJ rút lại từ này và xin lỗi vì xúc phạm quốc thể. Chúng tôi cũng làm rõ những nỗ lực chưa được kể của Campuchia: triệt phá các cơ sở lừa đảo do các tổ chức tội phạm nước ngoài điều hành, trục xuất hàng chục ngàn tội phạm mạng xuyên quốc gia và ban hành luật chống lừa đảo trực tuyến nghiêm ngặt trong năm 2026. Một góc nhìn đa chiều, phản bác lại định kiến để thấy rõ bức tranh toàn cảnh.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260422_scambodia/2026-04-22_scambodia_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
