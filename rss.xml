@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Wed, 22 Apr 2026 07:29:16 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Apr 2026 08:06:30 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -97,6 +97,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260422_india_ai/2026-04-22_India_AI_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[ĐỘT PHÁ: 7 công cụ Google Photos ]]></title>
+            <description><![CDATA[<p>Khám phá 7 công cụ chỉnh sửa chân dung mới từ Google Photos giúp làm mịn da, trắng răng và xóa khuyết điểm tinh tế chỉ trong vài giây. Chúng tôi cũng giải mã sự kết hợp giữa chatbot AI Gemini và Nano Banana 2, cho phép tạo hình ảnh cá nhân hóa trực tiếp từ thư viện ảnh riêng tư của bạn.</p>]]></description>
+            <guid isPermaLink="false">b2eb7aaf-3987-4ed7-a4c5-bb095ff9c761</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 08:06:30 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260422_google_photo/2026-04-22_google_photo_Audio.mp3" length="13923192" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khám phá 7 công cụ chỉnh sửa chân dung mới từ Google Photos giúp làm mịn da, trắng răng và xóa khuyết điểm tinh tế chỉ trong vài giây. Chúng tôi cũng giải mã sự kết hợp giữa chatbot AI Gemini và Nano Banana 2, cho phép tạo hình ảnh cá nhân hóa trực tiếp từ thư viện ảnh riêng tư của bạn.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260422_google_photo/2026-04-22_google_photo_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
