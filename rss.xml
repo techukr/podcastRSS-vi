@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Thu, 23 Apr 2026 01:41:47 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Apr 2026 02:11:35 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -149,6 +149,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260423_nintendo_switch_gamecube_games/2026-04-23_nintendo_switch_gamecube_games_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Cảnh báo Miyamoto: Mario Galaxy bị 43% [Podcast]]]></title>
+            <description><![CDATA[<p>Shigeru Miyamoto bày tỏ sự bối rối trước những đánh giá tiêu cực từ giới phê bình về phim Super Mario Galaxy (chỉ đạt 43% điểm Rotten Tomatoes). Dù vậy, bộ phim vẫn tạo sự đột phá với 753 triệu USD doanh thu toàn cầu và 89% điểm từ khán giả. Cùng thảo luận về phản ứng của Miyamoto và quyết định biến Rosalina chính thức trở thành em gái của Peach trong các tựa game tương lai.</p>]]></description>
+            <guid isPermaLink="false">765277c2-5881-4876-8080-7de5389a0355</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 02:11:35 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260423_miyamoto_super_mario_galaxy_movie/2026-04-23_Miyamoto_Super_Mario_Galaxy_Movie_Audio.mp3" length="14688057" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Shigeru Miyamoto bày tỏ sự bối rối trước những đánh giá tiêu cực từ giới phê bình về phim Super Mario Galaxy (chỉ đạt 43% điểm Rotten Tomatoes). Dù vậy, bộ phim vẫn tạo sự đột phá với 753 triệu USD doanh thu toàn cầu và 89% điểm từ khán giả. Cùng thảo luận về phản ứng của Miyamoto và quyết định biến Rosalina chính thức trở thành em gái của Peach trong các tựa game tương lai.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260423_miyamoto_super_mario_galaxy_movie/2026-04-23_Miyamoto_Super_Mario_Galaxy_Movie_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
