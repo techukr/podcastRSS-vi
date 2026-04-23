@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Thu, 23 Apr 2026 01:12:52 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Apr 2026 01:21:59 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -136,19 +136,6 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260423_tsmc_delayed_asml/2026-04-23_TSMC_Delayed_ASML_Cover.png"/>
-            <itunes:episodeType>full</itunes:episodeType>
-        </item>
-			<item>
-            <title><![CDATA[Cảnh báo: Nintendo Switch chạy miễn phí game GameCube]]></title>
-            <description><![CDATA[<p>Các game thủ đã khám phá ra một bước đột phá mới về giả lập khi sử dụng trình giả lập Dolphin để chơi trực tiếp hàng ngàn tựa game GameCube và Wii miễn phí trên Nintendo Switch. Do thất vọng với chi phí đắt đỏ của các trò chơi hoài cổ chính hãng và danh mục giới hạn trên hệ thống Nintendo Switch Online, nhiều người đang chuyển sang sử dụng phần mềm tùy chỉnh để tải các tựa game kinh điển này. Tuy nhiên, giải pháp thay thế này mang đến nhiều rủi ro đáng kể, bao gồm việc làm mất hiệu lực bảo hành, cũng như nguy cơ khiến máy chơi game bị quá nhiệt hoặc hỏng vĩnh viễn.</p>]]></description>
-            <guid isPermaLink="false">ee0f4316-00b9-4ead-a4b3-fe4794989d35</guid>
-            <dc:creator><![CDATA[ACDT]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 01:12:52 GMT</pubDate>
-            <enclosure url="https://archive.org/download/podcast_20260423_nintendo_switch_gamecube_games/2026-04-23_nintendo_switch_gamecube_games_Audio.mp3" length="19491035" type="audio/mpeg"/>
-            <itunes:summary><![CDATA[<p>Cảnh báo: Nintendo Switch chạy miễn phí game GameCube.</p>]]></itunes:summary>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>00:15:00</itunes:duration>
-            <itunes:image href="https://archive.org/download/podcast_20260423_nintendo_switch_gamecube_games/2026-04-23_nintendo_switch_gamecube_games_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
