@@ -22,7 +22,7 @@
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45593186/45593186-1773843177681-a5f263850b632.jpg"/>
 		
 			<item>
-            <title><![CDATA[Nhóm người dùng truy cập trái phép vào công cụ an ninh mạng Mythos của Anthropic [1]]]></title>
+            <title><![CDATA[Nhóm người dùng truy cập trái phép vào công cụ an ninh mạng Mythos của Anthropic]]></title>
             <description><![CDATA[<p>Trong tập này, chúng ta khám phá báo cáo về việc một nhóm người dùng chưa được cấp phép đã xâm nhập thành công vào Mythos, công cụ an ninh mạng AI độc quyền của Anthropic [1]. Tìm hiểu cách nhóm Discord này tận dụng quyền truy cập từ môi trường của nhà thầu bên thứ ba để đoán ra vị trí trực tuyến của mô hình [2-4]. Mặc dù nhóm này khẳng định họ chỉ muốn thử nghiệm các mô hình mới, nhưng việc rò rỉ một AI có thể bị lạm dụng thành vũ khí tấn công mạng đang đặt ra những rủi ro lớn đối với dự án bảo mật Project Glasswing của Anthropic [2, 4].</p>]]></description>
             <guid isPermaLink="false">d916400c-2166-49c5-92fb-cf56574aaf51</guid>
             <dc:creator><![CDATA[ACDT]]></dc:creator>
