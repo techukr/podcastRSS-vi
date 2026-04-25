@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Thu, 23 Apr 2026 22:37:41 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Apr 2026 00:17:08 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -227,6 +227,32 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260424_canada_citizenship_law_changes/2026-04-24_canada_citizenship_law_changes_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[7 bí mật iOS 26.4: Đã khắc phục lỗi FBI [Cập nhật 2026]]]></title>
+            <description><![CDATA[<p>Cảnh báo: Bản cập nhật iOS 26.4.2 cuối cùng thì đã khắc phục lỗ hổng tin nhắn Signal bị FBI khai thác. Trong tập này, chúng tôi cũng phân tích 7 bí mật khiến người dùng từ bỏ iPhone Air do giới hạn về pin và camera đơn. Đồng thời, hé lộ những đột phá tức thì trên iOS 26.5 như nhắn tin RCS mã hóa và Apple Maps hoàn thiện.</p>]]></description>
+            <guid isPermaLink="false">13c1bd36-55af-4199-9a25-1d6597034a35</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 00:17:07 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260425_apple_ios/2026-04-25_apple_iOS_Audio.mp3" length="19849017" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Cảnh báo: Bản cập nhật iOS 26.4.2 cuối cùng thì đã khắc phục lỗ hổng tin nhắn Signal bị FBI khai thác. Trong tập này, chúng tôi cũng phân tích 7 bí mật khiến người dùng từ bỏ iPhone Air do giới hạn về pin và camera đơn. Đồng thời, hé lộ những đột phá tức thì trên iOS 26.5 như nhắn tin RCS mã hóa và Apple Maps hoàn thiện.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260425_apple_ios/2026-04-25_apple_iOS_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[7 Đột phá DeepSeek V4: AI Dạng tác tử [Review]]]></title>
+            <description><![CDATA[<p>Phân tích chi tiết mô hình DeepSeek V4 (Pro 1.6 nghìn tỷ và Flash 284 tỷ tham số) với cửa sổ ngữ cảnh 1 triệu token. Khám phá kiến trúc chú ý lai (CSA và HCA) giúp giảm 90% bộ nhớ đệm KV, đưa DeepSeek V4 vượt mặt GPT-5.4 trong đánh giá lập trình mã nguồn và thống trị bảng xếp hạng Vals AI. Đánh giá chiến lược giá phá vỡ thị trường, rẻ hơn 99% so với Claude Opus 4.7, cùng khả năng triển khai tốc độ cực đại trên nền tảng NVIDIA Blackwell đạt hơn 150 token/giây. Giải mã toàn diện bước tiến mới của các quy trình AI Dạng tác tử.</p>]]></description>
+            <guid isPermaLink="false">5674fb7a-328e-4346-b673-dc212a9b24e2</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 00:17:08 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260425_deepseek_v4/2026-04-25_deepseek_v4_Audio.mp3" length="16359476" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Phân tích chi tiết mô hình DeepSeek V4 (Pro 1.6 nghìn tỷ và Flash 284 tỷ tham số) với cửa sổ ngữ cảnh 1 triệu token. Khám phá kiến trúc chú ý lai (CSA và HCA) giúp giảm 90% bộ nhớ đệm KV, đưa DeepSeek V4 vượt mặt GPT-5.4 trong đánh giá lập trình mã nguồn và thống trị bảng xếp hạng Vals AI. Đánh giá chiến lược giá phá vỡ thị trường, rẻ hơn 99% so với Claude Opus 4.7, cùng khả năng triển khai tốc độ cực đại trên nền tảng NVIDIA Blackwell đạt hơn 150 token/giây. Giải mã toàn diện bước tiến mới của các quy trình AI Dạng tác tử.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260425_deepseek_v4/2026-04-25_deepseek_v4_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
