@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Sat, 25 Apr 2026 09:35:56 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Apr 2026 11:30:36 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -266,6 +266,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260425_quora/2026-04-25_Quora_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Bí mật NotebookLM: 3 mẹo ĐỘT PHÁ [Cập nhật 2026]]]></title>
+            <description><![CDATA[<p>Khám phá cách biến NotebookLM thành trợ lý làm việc Tức thì với 3 chiến lược Đã được chứng minh từ các chuyên gia: tùy chỉnh Audio Overview bằng prompt cá nhân hóa để tạo podcast học tập, tự động hóa thu thập kiến thức với Deep Research, và đồng bộ hóa không gian làm việc liền mạch qua Notebooks trong Gemini. Tối ưu hóa hiệu suất và làm chủ dự án sáng tạo của bạn ngay hôm nay.</p>]]></description>
+            <guid isPermaLink="false">59b960ae-0998-4ec7-abe8-d19d18d2ad43</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 11:30:36 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260425_notebooklm/2026-04-25_NotebookLM_Audio.mp3" length="13120710" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khám phá cách biến NotebookLM thành trợ lý làm việc Tức thì với 3 chiến lược Đã được chứng minh từ các chuyên gia: tùy chỉnh Audio Overview bằng prompt cá nhân hóa để tạo podcast học tập, tự động hóa thu thập kiến thức với Deep Research, và đồng bộ hóa không gian làm việc liền mạch qua Notebooks trong Gemini. Tối ưu hóa hiệu suất và làm chủ dự án sáng tạo của bạn ngay hôm nay.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260425_notebooklm/2026-04-25_NotebookLM_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
