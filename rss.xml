@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Sat, 25 Apr 2026 00:17:08 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Apr 2026 09:35:56 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -253,6 +253,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260425_deepseek_v4/2026-04-25_deepseek_v4_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Bí mật Quora Poe & Amazon Bedrock [7 Bản thiết kế]]]></title>
+            <description><![CDATA[<p>Khám phá cách Quora phục vụ 400 triệu người dùng thông qua nền tảng Poe kết hợp cùng Amazon Bedrock. Tập podcast này giải mã kiến trúc API hợp nhất giúp giảm thời gian triển khai AI từ vài ngày xuống 15 phút một cách không tốn sức, đồng thời phân tích các biện pháp bảo vệ quyền riêng tư và bảo mật dữ liệu cốt lõi cho người dùng.</p>]]></description>
+            <guid isPermaLink="false">37f7f444-c649-45b6-af0c-ce9f3558d46b</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 09:35:56 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260425_quora/2026-04-25_Quora_Audio.mp3" length="18297971" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khám phá cách Quora phục vụ 400 triệu người dùng thông qua nền tảng Poe kết hợp cùng Amazon Bedrock. Tập podcast này giải mã kiến trúc API hợp nhất giúp giảm thời gian triển khai AI từ vài ngày xuống 15 phút một cách không tốn sức, đồng thời phân tích các biện pháp bảo vệ quyền riêng tư và bảo mật dữ liệu cốt lõi cho người dùng.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260425_quora/2026-04-25_Quora_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
