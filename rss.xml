@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Sun, 26 Apr 2026 06:41:47 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Apr 2026 08:09:08 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -318,6 +318,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260426_game/2026-04-26_game_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[7 bí mật Google đầu tư Anthropic [Cập nhật 2026]]]></title>
+            <description><![CDATA[<p>Khám phá 7 bí mật đằng sau khoản đầu tư lên tới 40 tỷ USD của Google vào Anthropic với định giá 380 tỷ USD. Tập podcast này sẽ làm rõ cách Anthropic đảm bảo 5 gigawatt điện toán, đáp trả những chỉ trích từ OpenAI. Chúng tôi cũng phân tích sự đột phá của chip TPU và bước đệm hướng tới các mô hình AI dạng tác tử trong tương lai.</p>]]></description>
+            <guid isPermaLink="false">22c990ef-0a6f-43ef-8ac0-e8b563f27a8c</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 08:09:08 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260426_google/2026-04-26_google_Audio.mp3" length="20927979" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khám phá 7 bí mật đằng sau khoản đầu tư lên tới 40 tỷ USD của Google vào Anthropic với định giá 380 tỷ USD. Tập podcast này sẽ làm rõ cách Anthropic đảm bảo 5 gigawatt điện toán, đáp trả những chỉ trích từ OpenAI. Chúng tôi cũng phân tích sự đột phá của chip TPU và bước đệm hướng tới các mô hình AI dạng tác tử trong tương lai.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260426_google/2026-04-26_google_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
