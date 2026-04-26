@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Sun, 26 Apr 2026 04:49:29 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Apr 2026 04:51:29 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -292,6 +292,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260426_gpt_55/2026-04-26_GPT_5.5_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Cảnh báo Roblox: 3 BÍ MẬT bảo mật [Cập nhật 2026]]]></title>
+            <description><![CDATA[<p>Khám phá hai mặt đối lập của nền tảng Roblox trong năm 2026. Một mặt là sự Đột phá doanh thu khổng lồ từ bản cập nhật 2.0 của 'SpongeBob Tower Defense'. Mặt khác là lời Cảnh báo nghiêm khắc từ chính phủ Úc, yêu cầu Roblox, Minecraft và Fortnite phải hành động chống lại nạn cực đoan hóa và lạm dụng trẻ em, đối mặt với án phạt lên đến 825.000 AUD mỗi ngày.</p>]]></description>
+            <guid isPermaLink="false">c1511114-1ef8-4336-88cd-ee314fe52860</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 04:51:29 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260426_roblox/2026-04-26_Roblox_Audio.mp3" length="18679149" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khám phá hai mặt đối lập của nền tảng Roblox trong năm 2026. Một mặt là sự Đột phá doanh thu khổng lồ từ bản cập nhật 2.0 của 'SpongeBob Tower Defense'. Mặt khác là lời Cảnh báo nghiêm khắc từ chính phủ Úc, yêu cầu Roblox, Minecraft và Fortnite phải hành động chống lại nạn cực đoan hóa và lạm dụng trẻ em, đối mặt với án phạt lên đến 825.000 AUD mỗi ngày.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260426_roblox/2026-04-26_Roblox_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
