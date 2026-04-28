@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Mon, 27 Apr 2026 02:31:48 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Apr 2026 02:39:33 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -344,6 +344,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260426_brain/2026-04-26_Brain_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Cảnh báo Microsoft: 3 BÍ MẬT sau cú sập 357 tỷ [Q3]]]></title>
+            <description><![CDATA[<p>Microsoft đối mặt với thử thách Q3 sau khi bốc hơi 357 tỷ USD vốn hóa. Tập phim khám phá áp lực từ khoản chi 100 tỷ USD cho cơ sở hạ tầng AI, tỷ lệ chấp nhận Copilot ở mức 3.3% (15 triệu ghế) và chiến lược cắt giảm nhân sự chưa từng có trong lịch sử 51 năm để xoa dịu Phố Wall.</p>]]></description>
+            <guid isPermaLink="false">e78f59ee-d4be-4358-8377-f5f9d9978de8</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 02:39:33 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260428_microsoft/2026-04-28_Microsoft_Audio.mp3" length="13528221" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Microsoft đối mặt với thử thách Q3 sau khi bốc hơi 357 tỷ USD vốn hóa. Tập phim khám phá áp lực từ khoản chi 100 tỷ USD cho cơ sở hạ tầng AI, tỷ lệ chấp nhận Copilot ở mức 3.3% (15 triệu ghế) và chiến lược cắt giảm nhân sự chưa từng có trong lịch sử 51 năm để xoa dịu Phố Wall.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260428_microsoft/2026-04-28_Microsoft_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
