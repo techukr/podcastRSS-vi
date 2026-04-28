@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Tue, 28 Apr 2026 02:39:33 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Apr 2026 13:59:28 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -357,6 +357,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260428_microsoft/2026-04-28_Microsoft_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Bản thiết kế DeepMind: 5 AI dạng tác tử [Mới]]]></title>
+            <description><![CDATA[<p>Khám phá chiến dịch K-Moonshot lịch sử giữa Google DeepMind và chính phủ Hàn Quốc nhằm thúc đẩy kỷ nguyên khám phá khoa học mới. Tập này phân tích 5 mô hình AI đột phá (như AlphaEvolve, AlphaFold, AI co-scientist) và dự đoán của Demis Hassabis về sự xuất hiện của AGI trong 5 năm tới. Đồng thời, chúng ta cũng thảo luận về những rủi ro an toàn qua vụ bắt giữ một người đàn ông tạo ảnh AI giả mạo sự cố sói Neukgu trốn khỏi sở thú, gây gián đoạn nghiêm trọng nỗ lực tìm kiếm của cảnh sát.</p>]]></description>
+            <guid isPermaLink="false">7a0ed755-6a1e-45de-a111-8aa35a2af336</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 13:59:28 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260428_ai_korea/2026-04-28_ai_Korea_Audio.mp3" length="21138630" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khám phá chiến dịch K-Moonshot lịch sử giữa Google DeepMind và chính phủ Hàn Quốc nhằm thúc đẩy kỷ nguyên khám phá khoa học mới. Tập này phân tích 5 mô hình AI đột phá (như AlphaEvolve, AlphaFold, AI co-scientist) và dự đoán của Demis Hassabis về sự xuất hiện của AGI trong 5 năm tới. Đồng thời, chúng ta cũng thảo luận về những rủi ro an toàn qua vụ bắt giữ một người đàn ông tạo ảnh AI giả mạo sự cố sói Neukgu trốn khỏi sở thú, gây gián đoạn nghiêm trọng nỗ lực tìm kiếm của cảnh sát.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260428_ai_korea/2026-04-28_ai_Korea_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
