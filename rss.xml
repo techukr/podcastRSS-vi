@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Tue, 28 Apr 2026 13:59:28 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 May 2026 17:03:37 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -370,6 +370,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260428_ai_korea/2026-04-28_ai_Korea_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Bí mật Lầu Năm Góc: 7 hãng AI [Cập nhật 2026]]]></title>
+            <description><![CDATA[<p>Trong tập này, chúng ta sẽ phân tích thỏa thuận lịch sử giữa Bộ Chiến tranh Hoa Kỳ và các tập đoàn công nghệ hàng đầu (như OpenAI, Google, Microsoft) nhằm triển khai AI trên các mạng lưới mật (IL6 và IL7). Trong khi nền tảng GenAI.mil đã thu hút hơn 1,3 triệu nhân sự quốc phòng, công ty Anthropic lại gây chú ý khi từ chối tham gia dự án do những lo ngại rủi ro về vũ khí tự trị và giám sát diện rộng giữa bối cảnh xung đột Mỹ - Israel tại Iran. Tìm hiểu cách quân đội Mỹ đang chuyển mình thành một lực lượng chiến đấu ưu tiên AI.</p>]]></description>
+            <guid isPermaLink="false">1a60a17f-49c5-4d0b-b26d-f8288ef36630</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 17:03:37 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260501_ai/2026-05-01_AI_Audio.mp3" length="6519672" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Trong tập này, chúng ta sẽ phân tích thỏa thuận lịch sử giữa Bộ Chiến tranh Hoa Kỳ và các tập đoàn công nghệ hàng đầu (như OpenAI, Google, Microsoft) nhằm triển khai AI trên các mạng lưới mật (IL6 và IL7). Trong khi nền tảng GenAI.mil đã thu hút hơn 1,3 triệu nhân sự quốc phòng, công ty Anthropic lại gây chú ý khi từ chối tham gia dự án do những lo ngại rủi ro về vũ khí tự trị và giám sát diện rộng giữa bối cảnh xung đột Mỹ - Israel tại Iran. Tìm hiểu cách quân đội Mỹ đang chuyển mình thành một lực lượng chiến đấu ưu tiên AI.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href=""/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
