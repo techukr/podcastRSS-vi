@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Tue, 12 May 2026 01:48:52 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 12 May 2026 10:10:57 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -409,6 +409,32 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260512_ai_today/2026-05-12_AI_today_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Cảnh báo OpenClaw: 7 Bí mật AI dạng tác tử [Cập nhật 2026]]]></title>
+            <description><![CDATA[<p>Khám phá sự bùng nổ của AI dạng tác tử! Tập này phân tích những Cảnh báo bảo mật nghiêm trọng xoay quanh nền tảng OpenClaw tại Trung Quốc và cuộc cạnh tranh khốc liệt với Hermes Agent từ Nous Research. Tại sao mô hình Đột phá tự cải thiện của Hermes vươn lên dẫn đầu OpenRouter với 224 tỷ token mỗi ngày? Tìm hiểu 7 Bí mật công nghệ cốt lõi và Bản thiết kế an toàn cho quy trình tự chủ.</p>]]></description>
+            <guid isPermaLink="false">41f71f5e-471c-4024-a17b-cc5e8ef8ed39</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 10:10:56 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260512_openclaw/2026-05-12_OpenClaw_Audio.mp3" length="20948041" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khám phá sự bùng nổ của AI dạng tác tử! Tập này phân tích những Cảnh báo bảo mật nghiêm trọng xoay quanh nền tảng OpenClaw tại Trung Quốc và cuộc cạnh tranh khốc liệt với Hermes Agent từ Nous Research. Tại sao mô hình Đột phá tự cải thiện của Hermes vươn lên dẫn đầu OpenRouter với 224 tỷ token mỗi ngày? Tìm hiểu 7 Bí mật công nghệ cốt lõi và Bản thiết kế an toàn cho quy trình tự chủ.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260512_openclaw/2026-05-12_OpenClaw_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[7 bí mật Google RCS E2EE [Đã xác minh]]]></title>
+            <description><![CDATA[<p>Tập podcast giải mã các động thái công nghệ chiến lược mới nhất của Google. Phân tích sự kiện Apple và Google chính thức triển khai nhắn tin RCS mã hóa đầu cuối (E2EE) mặc định trên Android và iOS 26.5 beta. Khám phá sáng kiến REPLIQA đột phá khi Google Quantum AI và Google.org tài trợ 10 triệu USD ứng dụng lượng tử vào khoa học sự sống. Cuối cùng, làm rõ sự thật về mức dự trữ 2 triệu gallon nước mỗi ngày của trung tâm dữ liệu Google tại Roanoke Valley giữa bối cảnh bảo tồn tài nguyên hiện đại.</p>]]></description>
+            <guid isPermaLink="false">7039737c-e4bf-4bfe-9852-76285b714a06</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 10:10:57 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260512_google_today/2026-05-12_google_today_Audio.mp3" length="12029837" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Tập podcast giải mã các động thái công nghệ chiến lược mới nhất của Google. Phân tích sự kiện Apple và Google chính thức triển khai nhắn tin RCS mã hóa đầu cuối (E2EE) mặc định trên Android và iOS 26.5 beta. Khám phá sáng kiến REPLIQA đột phá khi Google Quantum AI và Google.org tài trợ 10 triệu USD ứng dụng lượng tử vào khoa học sự sống. Cuối cùng, làm rõ sự thật về mức dự trữ 2 triệu gallon nước mỗi ngày của trung tâm dữ liệu Google tại Roanoke Valley giữa bối cảnh bảo tồn tài nguyên hiện đại.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260512_google_today/2026-05-12_google_today_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
