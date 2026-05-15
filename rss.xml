@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Tue, 12 May 2026 10:10:57 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 15 May 2026 04:08:42 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -435,6 +435,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260512_google_today/2026-05-12_google_today_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Cái chết Turing: 3 ĐỘT PHÁ AI [Bản thiết kế]]]></title>
+            <description><![CDATA[<p>Khi mô hình ngôn ngữ lớn làm vô hiệu hóa bài kiểm tra Turing truyền thống, giới công nghệ lập tức rẽ hướng sang AI vật lý. Khám phá cách người đoạt giải Turing Yann LeCun huy động 1 tỷ USD cho 'Mô hình thế giới' tương tác không gian 3D, và sức mạnh từ chip AI Turing 750 TOPS của XPeng đánh bại NVIDIA. Những bước tiến dạng tác tử này đang phác thảo lộ trình tự chủ hoàn toàn mới cho máy móc.</p>]]></description>
+            <guid isPermaLink="false">3999d2e6-6ac8-4a80-ac7f-eba6ebf5190a</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 04:08:42 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260515_turing_ai/2026-05-15_turing_AI_Audio.mp3" length="14449194" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khi mô hình ngôn ngữ lớn làm vô hiệu hóa bài kiểm tra Turing truyền thống, giới công nghệ lập tức rẽ hướng sang AI vật lý. Khám phá cách người đoạt giải Turing Yann LeCun huy động 1 tỷ USD cho 'Mô hình thế giới' tương tác không gian 3D, và sức mạnh từ chip AI Turing 750 TOPS của XPeng đánh bại NVIDIA. Những bước tiến dạng tác tử này đang phác thảo lộ trình tự chủ hoàn toàn mới cho máy móc.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260515_turing_ai/2026-05-15_turing_AI_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
