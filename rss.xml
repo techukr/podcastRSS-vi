@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Fri, 15 May 2026 04:08:42 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 22 May 2026 08:19:17 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -448,6 +448,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260515_turing_ai/2026-05-15_turing_AI_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Bí mật The Last of Us mùa 3 kết thúc [Đã xác minh]]]></title>
+            <description><![CDATA[<p>Hé lộ lý do HBO chính thức khép lại The Last of Us sau 3 mùa. Cảnh báo về sự vắng mặt của Pedro Pascal, hành trình của Abby và dự đoán bom tấn mới từ Naughty Dog tại sự kiện State of Play 2026.</p>]]></description>
+            <guid isPermaLink="false">01334ee5-05f9-47b3-b105-f09af89d9692</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 08:19:17 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260522_the_last_of_us/2026-05-22_the_last_of_us_Audio.mp3" length="16924975" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Hé lộ lý do HBO chính thức khép lại The Last of Us sau 3 mùa. Cảnh báo về sự vắng mặt của Pedro Pascal, hành trình của Abby và dự đoán bom tấn mới từ Naughty Dog tại sự kiện State of Play 2026.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260522_the_last_of_us/2026-05-22_the_last_of_us_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
