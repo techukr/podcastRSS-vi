@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Fri, 22 May 2026 08:19:17 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 22 May 2026 08:43:29 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -461,6 +461,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260522_the_last_of_us/2026-05-22_the_last_of_us_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[7 ĐỘT PHÁ Omega 007 First Light [Game 2026]]]></title>
+            <description><![CDATA[<p>Khám phá cỗ máy đếm giờ Omega Seamaster Diver 300M Chronograph 007 First Light trị giá 9.400 USD. Phá vỡ truyền thống, đây là chiếc đồng hồ chronograph đầu tiên của James Bond bước ra từ tựa game của IO Interactive thay vì màn ảnh rộng. Cùng giải mã cỗ máy cơ học có kích thước 44mm, độ dày 17.2mm với mặt số gốm đen, điểm nhấn mạ Vàng Đồng PVD và bộ máy Calibre 9900 mạnh mẽ.</p>]]></description>
+            <guid isPermaLink="false">3cc2679b-b9ec-4c63-afe0-26c438607dbc</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 08:43:29 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260522_omega_first_light/2026-05-22_omega_first_light_Audio.mp3" length="19055313" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khám phá cỗ máy đếm giờ Omega Seamaster Diver 300M Chronograph 007 First Light trị giá 9.400 USD. Phá vỡ truyền thống, đây là chiếc đồng hồ chronograph đầu tiên của James Bond bước ra từ tựa game của IO Interactive thay vì màn ảnh rộng. Cùng giải mã cỗ máy cơ học có kích thước 44mm, độ dày 17.2mm với mặt số gốm đen, điểm nhấn mạ Vàng Đồng PVD và bộ máy Calibre 9900 mạnh mẽ.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260522_omega_first_light/2026-05-22_omega_first_light_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
