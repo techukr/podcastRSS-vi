@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Fri, 22 May 2026 08:43:29 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jun 2026 01:47:23 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -474,6 +474,32 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260522_omega_first_light/2026-05-22_omega_first_light_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Warning: REAL age 9 Roblox ban [April 2026]]]></title>
+            <description><![CDATA[<p>Is a complete Roblox ban imminent? The Philippine DICT and CICC have temporarily averted an April 10 deadline, but a ban remains on the table pending compliance. Following severe child exploitation concerns—mirroring an ongoing lawsuit from Los Angeles—Roblox is introducing 'safety-by-design' measures. These include disabling chat access for children ages 9 and below, along with potential integration with the Philippine Identification System for strict age verification.</p>]]></description>
+            <guid isPermaLink="false">31896d0c-6909-433f-8dc9-a8d63252079d</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 01:47:22 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260604_lang_vi__rtx_spark/2026-06-04_%E2%80%94lang_vi__rtx_spark_Audio.mp3" length="18118666" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Is a complete Roblox ban imminent? The Philippine DICT and CICC have temporarily averted an April 10 deadline, but a ban remains on the table pending compliance. Following severe child exploitation concerns—mirroring an ongoing lawsuit from Los Angeles—Roblox is introducing 'safety-by-design' measures. These include disabling chat access for children ages 9 and below, along with potential integration with the Philippine Identification System for strict age verification.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260604_lang_vi__rtx_spark/2026-06-04_%E2%80%94lang_vi__rtx_spark_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Cảnh báo RTX Spark: 7 đột phá AI dạng tác tử [Podcast]]]></title>
+            <description><![CDATA[<p>Khám phá siêu chip Nvidia RTX Spark vừa ra mắt tại Computex 2026. Tìm hiểu cách kiến trúc Grace Blackwell với 6.144 lõi CUDA, hiệu suất 1 Petaflop và 128GB bộ nhớ hợp nhất đang biến laptop Windows thành các hệ thống AI dạng tác tử (Agentic AI) bản địa. Phân tích 7 đột phá không tốn sức về bảo mật cục bộ với NVIDIA OpenShell và các dòng laptop thế hệ mới từ Asus, Dell, Microsoft giúp định hình tương lai điện toán vùng biên.</p>]]></description>
+            <guid isPermaLink="false">aa566fef-933e-4187-ba6d-7ee438014990</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 01:47:23 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260604_rtx_spark/2026-06-04_rtx_spark_Audio.mp3" length="19222078" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Khám phá siêu chip Nvidia RTX Spark vừa ra mắt tại Computex 2026. Tìm hiểu cách kiến trúc Grace Blackwell với 6.144 lõi CUDA, hiệu suất 1 Petaflop và 128GB bộ nhớ hợp nhất đang biến laptop Windows thành các hệ thống AI dạng tác tử (Agentic AI) bản địa. Phân tích 7 đột phá không tốn sức về bảo mật cục bộ với NVIDIA OpenShell và các dòng laptop thế hệ mới từ Asus, Dell, Microsoft giúp định hình tương lai điện toán vùng biên.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260604_rtx_spark/2026-06-04_rtx_spark_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
