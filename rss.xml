@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Thu, 04 Jun 2026 01:47:23 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jun 2026 10:24:32 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -500,6 +500,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260604_rtx_spark/2026-06-04_rtx_spark_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[7 Bí Mật Siri AI Dạng Tác Tử [Cập nhật 2026]]]></title>
+            <description><![CDATA[<p>Trong tập này, chúng tôi giải mã những Đột phá của Apple Intelligence và Siri AI vừa ra mắt. Khám phá cách Siri chuyển mình thành hệ thống Dạng tác tử (Agentic) giúp tối ưu hóa trên iOS 27 một cách Không tốn sức, kết hợp cùng nền tảng Private Cloud Compute để xử lý Tức thì mà vẫn bảo mật quyền riêng tư. Liệu bản cập nhật này có thực sự giúp các thiết bị cũ như iPhone 11 tiếp tục hoạt động mượt mà cùng các tính năng kiểm soát phụ huynh mới? Nghe ngay để nắm giữ Bản thiết kế công nghệ mới nhất từ hệ sinh thái Apple!</p>]]></description>
+            <guid isPermaLink="false">e04c707e-a526-4fe9-8083-9a515878f976</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 10:24:32 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260609_ios_27/2026-06-09_ios_27_Audio.mp3" length="17621504" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Trong tập này, chúng tôi giải mã những Đột phá của Apple Intelligence và Siri AI vừa ra mắt. Khám phá cách Siri chuyển mình thành hệ thống Dạng tác tử (Agentic) giúp tối ưu hóa trên iOS 27 một cách Không tốn sức, kết hợp cùng nền tảng Private Cloud Compute để xử lý Tức thì mà vẫn bảo mật quyền riêng tư. Liệu bản cập nhật này có thực sự giúp các thiết bị cũ như iPhone 11 tiếp tục hoạt động mượt mà cùng các tính năng kiểm soát phụ huynh mới? Nghe ngay để nắm giữ Bản thiết kế công nghệ mới nhất từ hệ sinh thái Apple!</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260609_ios_27/2026-06-09_ios_27_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
