@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Tue, 09 Jun 2026 10:24:32 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jun 2026 02:58:41 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -513,6 +513,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260609_ios_27/2026-06-09_ios_27_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[7 năm bí mật: Elder Scrolls 6 ĐỘT PHÁ [Cập nhật 2026]]]></title>
+            <description><![CDATA[<p>Cuối cùng thì sau hơn 7 năm chờ đợi, Giám đốc nội dung Xbox Matt Booty xác nhận The Elder Scrolls 6 đang tiến triển vô cùng thuận lợi. Đích thân Todd Howard đang trải nghiệm bản chơi thử với đồ họa được đánh giá là tuyệt đẹp. Dù vắng mặt tại Xbox Games Showcase, các rò rỉ mới nhất chỉ ra thời điểm phát hành tiềm năng vào năm 2029. Cùng giải mã những bí mật và bước đột phá của siêu phẩm nhập vai kinh điển này.</p>]]></description>
+            <guid isPermaLink="false">9b5c8700-b815-4751-b71d-ebde8d25ca93</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 02:58:41 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260611_elder_scrolls_6/2026-06-11_elder_scrolls_6_Audio.mp3" length="18385115" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Cuối cùng thì sau hơn 7 năm chờ đợi, Giám đốc nội dung Xbox Matt Booty xác nhận The Elder Scrolls 6 đang tiến triển vô cùng thuận lợi. Đích thân Todd Howard đang trải nghiệm bản chơi thử với đồ họa được đánh giá là tuyệt đẹp. Dù vắng mặt tại Xbox Games Showcase, các rò rỉ mới nhất chỉ ra thời điểm phát hành tiềm năng vào năm 2029. Cùng giải mã những bí mật và bước đột phá của siêu phẩm nhập vai kinh điển này.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260611_elder_scrolls_6/2026-06-11_elder_scrolls_6_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
