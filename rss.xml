@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Thu, 11 Jun 2026 13:42:33 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jun 2026 13:42:56 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -539,6 +539,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260611_virgin_media_o2/2026-06-11_virgin_media_o2_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Bí mật 3 bước: Pokémon Go điều khiển Drone [Bản thiết kế]]]></title>
+            <description><![CDATA[<p>Hơn 30 tỷ bản quét thực tế từ người chơi Pokémon Go đang âm thầm huấn luyện hệ thống định vị không cần GPS cho Drone quân sự thông qua cú bắt tay giữa Niantic Spatial và Vantor. Trong tập này, chúng ta sẽ giải mã cách dữ liệu game trở thành vũ khí quốc phòng. Bên cạnh đó, cập nhật nhanh các tin tức nóng: tranh cãi khi Donald Trump sử dụng hình ảnh anime, vụ trộm thẻ bài trị giá 15.000 USD trong 40 giây tại California, và triết lý thiết kế đột phá của bộ sưu tập HUMAN MADE x Pokémon Vol. 2.</p>]]></description>
+            <guid isPermaLink="false">0357d0ac-0925-4258-823c-ca676aec2234</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 13:42:56 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260611_pokemon/2026-06-11_pokemon_Audio.mp3" length="17161958" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Hơn 30 tỷ bản quét thực tế từ người chơi Pokémon Go đang âm thầm huấn luyện hệ thống định vị không cần GPS cho Drone quân sự thông qua cú bắt tay giữa Niantic Spatial và Vantor. Trong tập này, chúng ta sẽ giải mã cách dữ liệu game trở thành vũ khí quốc phòng. Bên cạnh đó, cập nhật nhanh các tin tức nóng: tranh cãi khi Donald Trump sử dụng hình ảnh anime, vụ trộm thẻ bài trị giá 15.000 USD trong 40 giây tại California, và triết lý thiết kế đột phá của bộ sưu tập HUMAN MADE x Pokémon Vol. 2.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260611_pokemon/2026-06-11_pokemon_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
