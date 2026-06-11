@@ -5,7 +5,7 @@
 		<description><![CDATA[Dòng Chảy Công Nghệ Số]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml</link>
 		<generator>Custom Auto Publisher</generator>
-		<lastBuildDate>Thu, 11 Jun 2026 02:58:41 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jun 2026 13:42:33 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-vi/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ACDT]]></author>
 		<copyright><![CDATA[ACDT]]></copyright>
@@ -526,6 +526,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260611_elder_scrolls_6/2026-06-11_elder_scrolls_6_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 Cloud AI secrets FINALLY fixing O2 calls ]]></title>
+            <description><![CDATA[<p>In this episode, we reveal the breakthrough Cloud AI technology Virgin Media O2 is using in a verified trial with Mavenir to instantly improve call clarity for users with hearing loss. We also explore the hidden network blueprint VMO2 is deploying to handle the massive 2026 summer football broadband surge, and how their latest Responsible Business Plan creates a proven path to net-zero by 2040 without relying on traditional ESG labels.</p>]]></description>
+            <guid isPermaLink="false">20721254-4112-4525-9cb7-b2067f67c369</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 13:42:31 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260611_virgin_media_o2/2026-06-11_virgin_media_o2_Audio.mp3" length="21507897" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>In this episode, we reveal the breakthrough Cloud AI technology Virgin Media O2 is using in a verified trial with Mavenir to instantly improve call clarity for users with hearing loss. We also explore the hidden network blueprint VMO2 is deploying to handle the massive 2026 summer football broadband surge, and how their latest Responsible Business Plan creates a proven path to net-zero by 2040 without relying on traditional ESG labels.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260611_virgin_media_o2/2026-06-11_virgin_media_o2_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
